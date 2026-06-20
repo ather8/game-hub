@@ -78,7 +78,3 @@ game-hub/
 - **Email:** athersayed8@gmail.com  
 
 ---
-
-This version makes your project **recruiter‑ready** by including a direct **live demo link** so they can interact with the app instantly.  
-
-👉 Do you want me to also add a **“Deployment” section** explaining how you set it up on **Vercel** (steps + config) so it shows your DevOps skills too?
