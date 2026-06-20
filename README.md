@@ -1,7 +1,3 @@
-Here’s the finalized **README.md** for your **Game Hub** project, now including the **Live Demo** link:
-
----
-
 # 🎮 Game Hub
 
 A modern **React + TypeScript + Vite** application that showcases clean UI design, responsive layouts, and dynamic game content. Built as a frontend showcase project, **Game Hub** demonstrates production‑ready tooling, reusable components, and API‑driven data fetching.
